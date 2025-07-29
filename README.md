@@ -4,7 +4,8 @@
 
 ![alt text](https://github.com/Peter-Kahl/A-Critical-Look-at-Andrew-Knight-Blog-Post/blob/main/policy_design_pavilion.jpg?raw=true)
 
-by Peter Kahl; independent researcher
+by Peter Kahl; independent multidisciplinary researcher
+
 First published ‘free-range’ 23 July 2025 on Substack; v2 Edition 29 July 2025
 
 ### Abstract

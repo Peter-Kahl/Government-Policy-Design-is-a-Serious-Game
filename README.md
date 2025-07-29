@@ -20,7 +20,7 @@ epistemic justice, epistemic clientelism, fiduciary openness, democratic account
 
 Correspondence regarding this work is welcome.
 
-Download this scholarly work as a PDF for sharing and citation: [PDF download](https://raw.githubusercontent.com/Peter-Kahl/A-Critical-Look-at-Andrew-Knight-Blog-Post/master/Kahl_P_Government_Policy_Design_is_a_Serious Game_v2_29_July_2025.pdf)
+Download this scholarly work as a PDF for sharing and citation: [PDF download](https://raw.githubusercontent.com/Peter-Kahl/A-Critical-Look-at-Andrew-Knight-Blog-Post/master/Kahl_P_Government_Policy_Design_is_a_Serious_Game_v2_29_July_2025.pdf)
 
 Cite this work:
 

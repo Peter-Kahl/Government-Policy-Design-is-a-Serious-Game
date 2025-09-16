@@ -1,12 +1,10 @@
 # Government Policy Design is a Serious Game
 
-#### Towards Genuine Epistemic Justice and Democratic Accountability
+### Toward genuine epistemic justice and democratic accountability
 
-![alt text](https://github.com/Peter-Kahl/A-Critical-Look-at-Andrew-Knight-Blog-Post/blob/main/policy_design_pavilion.jpg?raw=true)
+by Peter Kahl, 23 July 2025; 3rd ed. 16 September 2025
 
-by Peter Kahl; independent multidisciplinary researcher
-
-First published ‘free-range’ 23 July 2025 on Substack; v2 Edition 29 July 2025
+![alt text](https://github.com/Peter-Kahl/Government-Policy-Design-is-a-Serious-Game/blob/main/policy_design_pavilion.jpg?raw=true)
 
 ### Abstract
 
@@ -18,15 +16,21 @@ epistemic justice, epistemic clientelism, fiduciary openness, democratic account
 
 ---
 
-Correspondence regarding this work is welcome.
+### Download
 
-Download this scholarly work as a PDF for sharing and citation: [PDF download](https://raw.githubusercontent.com/Peter-Kahl/A-Critical-Look-at-Andrew-Knight-Blog-Post/master/Kahl_P_Government_Policy_Design_is_a_Serious_Game_v2_29_July_2025.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Government-Policy-Design-is-a-Serious-Game/master/Kahl_P_Government_Policy_Design_is_a_Serious_Game_v2_29_July_2025.pdf)
 
-Cite this work:
+### Cite this work
 
 ```
-Peter Kahl, ‘Government Policy Design is a Serious Game: Towards Genuine Epistemic Justice and Democratic Accountability’ (2025) available at <https://github.com/Peter-Kahl/A-Critical-Look-at-Andrew-Knight-Blog-Post>
+Kahl, P. (2025). Government policy design is a serious game: Towards genuine epistemic justice and democratic accountability (3rd ed.). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Government-Policy-Design-is-a-Serious-Game
 ```
-### Licence
-Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
 
+### Publisher & Licence
+
+First published in London by Peter Kahl, 23 July 2025.\
+Second edition published in London by Peter Kahl, 29 July 2025.\
+Third edition published in London by Lex et Ratio Ltd, 16 September 2025.
+
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
+You may share this work for non-commercial purposes with attribution and without modification. Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/

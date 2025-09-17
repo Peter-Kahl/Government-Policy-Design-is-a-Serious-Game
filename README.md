@@ -1,36 +1,44 @@
 # Government Policy Design is a Serious Game
 
-### Toward genuine epistemic justice and democratic accountability
+### Fairness Duties in Participatory Design as a normative framework for democratic epistemology
 
-by Peter Kahl, 23 July 2025; 3rd ed. 16 September 2025
+#### _Establishing fairness duties as fiduciary–epistemic principles through the case of UK Civil Service participatory design_
+
+by Peter Kahl, 23 July 2025; 3rd ed. 17 September 2025
+
+DOI: 10.13140/RG.2.2.36704.34568
 
 ![alt text](https://github.com/Peter-Kahl/Government-Policy-Design-is-a-Serious-Game/blob/main/policy_design_pavilion.jpg?raw=true)
 
 ### Abstract
 
-This essay critically analyses Andrew Knight’s representation of the UK Civil Service’s policy-design pavilion at the London Design Biennale. Through applying my original theoretical framework—Epistemic Clientelism Theory (ECT)—I expose how seemingly democratic practices such as ‘serious games’ and curated workshops exemplify performative openness, epistemic gatekeeping, and implicit conformity pressures. These practices systematically reinforce epistemic clientelism, marginalise diverse epistemic perspectives, and undermine fiduciary accountability and democratic legitimacy. Drawing explicitly upon Heidegger’s and Foucault’s critical analyses, I argue that institutionalised epistemic clientelism fosters epistemic alienation and conformity, eroding genuine democratic epistemological practices. Consequently, I propose explicit fiduciary-epistemic governance reforms, including epistemic transparency, fiduciary accountability structures, genuine epistemic influence mechanisms, critical reflexivity practices, and authentic democratic co-creation, to ensure genuine epistemic justice, democratic accountability, and epistemological pluralism in government policy design.
+This paper examines the UK Civil Service’s participatory practices at the London Design Biennale through the lens of _Epistemic Clientelism Theory_ (ECT). Drawing on fiduciary law, deliberative democracy, and critical social theory, it argues that the workshops—framed as “serious games”—constituted not democratic innovation but structural breaches of fiduciary–epistemic duty. Participation was curated, scripted, and opaque, producing symbolic inclusion while suppressing dissent and epistemic plurality.
+
+A central contribution of this paper is the articulation of _Fairness Duties in Participatory Design_—notice (_Ridge v Baldwin_), reasons (_Doody_), access (_UNISON_), and proportionality (_Mott_). Transposed from public law into the epistemic domain, these duties specify the obligations institutions owe to citizens when structuring participatory processes. Case law on fiduciary loyalty (_Keech v Sandford_; _Boardman v Phipps_) and fiduciary power in state contexts (_Frame v Smith_; _Guerin v The Queen_) further anchors this framework.
+
+The result is a normative blueprint for reform: _fiduciary–epistemic governance_ that embeds transparency, accountability, reflexivity, and democratic co-creation. By integrating jurisprudence with deliberative theory (Habermas, Gutmann & Thompson), the paper advances both doctrinal and democratic innovation, recasting participatory governance not as theatre but as a fiduciary relationship grounded in epistemic justice.
 
 ### Keywords
 
-epistemic justice, epistemic clientelism, fiduciary openness, democratic accountability, epistemic transparency, performative openness, policy design, serious games, epistemic gatekeeping, Heidegger, Foucault, institutional alienation, critical reflexivity, democratic epistemology, co-creation, institutional accountability, UK Civil Service, governance ethics, public sector innovation, knowledge equity, transparency, design thinking
+epistemic clientelism, fiduciary duties, participatory governance, deliberative democracy, procedural fairness, transparency, accountability, epistemic justice, symbolic capital, communicative rationality, democratic legitimacy
 
 ---
 
 ### Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Government-Policy-Design-is-a-Serious-Game/master/Kahl_P_Government_Policy_Design_is_a_Serious_Game_v2_29_July_2025.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Government-Policy-Design-is-a-Serious-Game/master/Kahl_P_Government_Policy_Design_is_a_Serious_Game_v3_2025-09-16.pdf)
 
 ### Cite this work
 
 ```
-Kahl, P. (2025). Government policy design is a serious game: Towards genuine epistemic justice and democratic accountability (3rd ed.). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Government-Policy-Design-is-a-Serious-Game
+Kahl, P. (2025). Government policy design is a serious game: Fairness Duties in Participatory Design as a normative framework for democratic epistemology (3rd ed.). Lex et Ratio Ltd. https://doi.org/10.13140/RG.2.2.36704.34568
 ```
 
 ### Publisher & Licence
 
 First published in London by Peter Kahl, 23 July 2025.\
 Second edition published in London by Peter Kahl, 29 July 2025.\
-Third edition published in London by Lex et Ratio Ltd, 16 September 2025.
+Third edition published in London by Lex et Ratio Ltd, 17 September 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification. Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/

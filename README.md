@@ -22,6 +22,10 @@ The result is a normative blueprint for reform: _fiduciary–epistemic governanc
 
 epistemic clientelism, fiduciary duties, participatory governance, deliberative democracy, procedural fairness, transparency, accountability, epistemic justice, symbolic capital, communicative rationality, democratic legitimacy
 
+## Working Paper Status
+
+This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
+
 ## Download
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Government-Policy-Design-is-a-Serious-Game/master/Kahl_P_Government_Policy_Design_is_a_Serious_Game_v3_2025-09-16.pdf)

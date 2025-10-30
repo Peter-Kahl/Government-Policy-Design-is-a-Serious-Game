@@ -38,6 +38,5 @@ First published in London by Peter Kahl, 2025-07-23.\
 v2 published in London by Peter Kahl, 2025-07-29.\
 v3 published in London by Lex et Ratio Ltd, 2025-09-17.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
+© 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
